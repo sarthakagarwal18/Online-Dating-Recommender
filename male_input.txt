@@ -1,0 +1,179 @@
+1
+Ayush Kumar
+Male
+20
+New Delhi
+110075
+Fashion Blogger
+11000
+
+2
+Shashank Singh
+Male
+19
+New
+110077
+Fashion Model
+10100
+
+3
+Rohan Singh
+Male
+21
+Delhi
+110073
+Teacher
+11001
+
+4
+Sanchit Arora
+Male
+22
+Delhi
+110080
+Boutique
+10001
+
+5
+Raj Singh
+Male
+24
+Delhi
+110065
+Eng
+10010
+
+6
+Shubham Singh
+Male
+25
+Delhi
+110083
+Chef
+11010
+
+7
+Yash Singh
+Male
+21
+Delhi
+110090
+Bookseller
+11011
+
+8
+Vaibhav Singh
+Male
+18
+Delhi
+110097
+Librarian
+10010
+
+9
+Saurav Singh
+Male
+20
+Delhi
+110080
+Teacher
+11111
+
+10
+Saransh Singh
+Male
+22
+Delhi
+110065
+Singer
+00011
+
+11
+Saksham Singh
+Male
+23
+Delhi
+110075
+Dancer
+00001
+
+12
+Samarth Singh
+Male
+21
+Delhi
+110078
+Engineer
+11111
+
+13
+Shivam Singh
+Male
+19
+Delhi
+110060
+Engineer
+11011
+
+14
+Vishnu Singh
+Male
+22
+Delhi
+110043
+Doctor
+01010
+
+15
+Ishan Singh
+Male
+20
+Delhi
+110093
+Social Worker
+11100
+
+16
+Siddharth Singh
+Male
+21
+Delhi
+110067
+Fashion Model
+10010
+
+17
+Sagar Singh
+Male
+26
+Delhi
+110080
+Dancer
+11110
+
+18
+Anshul Singh
+Male
+19
+Delhi
+110047
+Chef
+11011
+
+19
+Gaurav Singh
+Male
+18
+Delhi
+110061
+Engineer
+01011
+
+20
+Mohit Singh
+Male
+26
+Delhi
+110077
+Doctor
+00000
